@@ -6,3 +6,11 @@ image: img/brave_3kqfwhjfz3.png
 ---
 Chemex Sucks
 [﻿Download Your Copy Here](https://chic-halva-441cda.netlify.app/img/foureka-01-publish.pdf)
+
+
+
+<!--StartFragment-->
+
+<a href="https://chic-halva-441cda.netlify.app/img/foureka-01-publish.pdf" download > pdf link u b</a>
+
+<!--EndFragment-->
